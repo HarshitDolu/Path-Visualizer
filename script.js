@@ -44,6 +44,8 @@ $( "#tableContainer" ).append( myGrid );
 
 // queue
 
+
+
 function Queue() { 
  this.stack = new Array();                // []
 
@@ -131,6 +133,8 @@ function minHeap() {
 		return;
 	}
 }
+
+
 
 /* ------------------------- */
 /* ---- MOUSE FUNCTIONS ---- */
